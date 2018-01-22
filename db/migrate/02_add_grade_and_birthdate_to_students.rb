@@ -1,2 +1,2 @@
-class AddGradeAndBirthDate << ActiveRecord::Migration
+class AddGradeAndBirthDate < ActiveRecord::Migration
 end
